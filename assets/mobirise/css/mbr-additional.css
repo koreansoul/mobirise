@@ -1426,3 +1426,114 @@ body {
     padding-right: 4rem;
   }
 }
+.cid-r8xIZHgrbr {
+  background-image: url("../../../assets/images/mobile6-1080x1920.png");
+}
+.cid-r8xOONlEYw {
+  padding-top: 75px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mobile7-1080x1920.png");
+}
+.cid-r8xOONlEYw .progress {
+  width: 100%;
+}
+.cid-r8xOONlEYw progress {
+  height: 8px;
+}
+.cid-r8xOONlEYw h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-r8xOONlEYw .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-r8xOONlEYw .progress_value {
+  position: relative;
+}
+.cid-r8xOONlEYw .progress_elements {
+  margin: 0 auto;
+}
+.cid-r8xOONlEYw .title-wrap {
+  display: -webkit-flex;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+}
+.cid-r8xOONlEYw .progress1 .progressbar-number:before,
+.cid-r8xOONlEYw .progress2 .progressbar-number:before,
+.cid-r8xOONlEYw .progress3 .progressbar-number:before,
+.cid-r8xOONlEYw .progress4 .progressbar-number:before {
+  position: absolute;
+  right: 15px;
+  top: 0;
+}
+.cid-r8xOONlEYw progress[value]::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-r8xOONlEYw progress::-webkit-progress-value {
+  background: #149dcc;
+}
+.cid-r8xOONlEYw progress[value]::-moz-progress-bar {
+  background: #149dcc;
+}
+.cid-r8xOONlEYw progress::-ms-fill {
+  background: #149dcc;
+}
+.cid-r8xOONlEYw .progress1 .progressbar-number:before {
+  content: '86';
+}
+.cid-r8xOONlEYw .progress2 .progressbar-number:before {
+  content: '3';
+}
+.cid-r8xOONlEYw .progress3 .progressbar-number:before {
+  content: '2';
+}
+.cid-r8xOONlEYw .progress4 .progressbar-number:before {
+  content: '1';
+}
+.cid-r8xOONlEYw .progress-primary {
+  background: rgba(206, 206, 206, 0.4);
+  border: none;
+  outline: none;
+}
+.cid-r8xOONlEYw .progress-primary::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-r8xOONlEYw .progress_value span {
+  padding-left: 30px;
+}
+.cid-r8xS6LT5ty {
+  background: #ffffff;
+}
+.cid-r8xS6LT5ty .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-r8xS6LT5ty .mbr-figure {
+  margin: 0 auto;
+}
+.cid-r8xS6LT5ty figcaption {
+  position: relative;
+}
+.cid-r8xS6LT5ty figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r8xS6LT5ty .image-block {
+    width: 100% !important;
+  }
+}
+.cid-r8y100zsfq {
+  background-image: url("../../../assets/images/mobile10-1080x1920.png");
+}
+@media (min-width: 992px) {
+  .cid-r8y100zsfq .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-r8y100zsfq .mbr-figure {
+    padding-top: 3rem;
+  }
+}
